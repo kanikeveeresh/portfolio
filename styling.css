@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+    padding: 5px;
+}
+
+.introduction {
+    padding: 5px;
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+}
+
+img {
+    width:50%;
+}
+
+.input {
+    width:100%;
+    margin:5px;
+}
+
+button {
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    color:white;
+    background-color: green;
+}
+
+body {
+    margin:5px;
+}
+
+.foot {
+    text-align:center;
+    color:white;
+    background-color:black;
+    width:100%;
+}
